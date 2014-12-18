@@ -1,0 +1,1 @@
+This directory will hold the .jar files needed to run the program (lwjgl, lwjgl_util, slick)

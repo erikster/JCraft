@@ -1,0 +1,1 @@
+This directory holds the images needed for textures
