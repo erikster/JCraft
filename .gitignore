@@ -1,9 +1,15 @@
 *.class
 
+# Dynamic libraries + native stuff
+*.dll
+*.so
+*.jnilib
+*.dylib
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear
