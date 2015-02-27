@@ -1,1 +1,0 @@
-This directory contains the needed native files to run the program
